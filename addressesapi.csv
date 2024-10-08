@@ -1,82 +1,32 @@
-﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-98.71.19.116,443,443,true,DUB,Europe,Dublin,272,10.93
-20.33.62.19,2083,443,true,LHR,Europe,London,487,10.93
-4.221.60.243,2053,443,true,JNB,Africa,Johannesburg,244,10.83
-20.33.30.36,2083,443,true,LAX,North America,Los Angeles,464,10.37
-48.217.34.120,443,443,true,EWR,North America,Newark,597,9.72
-172.177.248.69,8443,443,true,IAD,North America,Ashburn,259,8.98
-20.151.60.161,8443,443,true,YYZ,North America,Toronto,276,8.81
-74.249.233.213,443,443,true,ORD,North America,Chicago,340,8.70
-158.23.81.224,2053,443,true,DFW,North America,Dallas,315,8.63
-20.25.205.37,2053,443,true,ORD,North America,Chicago,401,8.60
-20.25.205.37,8443,443,true,ORD,North America,Chicago,646,8.54
-172.214.176.68,2053,443,true,ORD,North America,Chicago,310,8.53
-158.23.81.224,8443,443,true,DFW,North America,Dallas,221,8.52
-172.214.176.68,8443,443,true,ORD,North America,Chicago,357,8.50
-20.221.32.145,443,443,true,ORD,North America,Chicago,316,8.48
-20.127.201.36,443,443,true,EWR,North America,Newark,484,8.40
-158.23.169.65,2053,443,true,DFW,North America,Dallas,291,8.39
-20.151.63.165,8443,443,true,YYZ,North America,Toronto,456,8.21
-20.84.117.28,443,443,true,IAD,North America,Ashburn,258,8.11
-4.172.225.98,8443,443,true,YYZ,North America,Toronto,366,8.06
-20.36.131.211,443,443,true,IAD,North America,Ashburn,412,8.03
-158.23.169.65,8443,443,true,DFW,North America,Dallas,261,8.03
-20.220.29.122,2053,443,true,YYZ,North America,Toronto,595,7.94
-4.219.15.140,2053,443,true,CPH,Europe,Copenhagen,197,7.92
-40.79.73.114,8443,443,true,IAD,North America,Ashburn,248,7.91
-172.191.74.198,443,443,true,IAD,North America,Ashburn,381,7.89
-20.86.144.225,2053,443,true,AMS,Europe,Amsterdam,474,7.83
-4.172.225.82,8443,443,true,YYZ,North America,Toronto,265,7.81
-20.228.249.211,8443,443,true,IAD,North America,Ashburn,358,7.60
-20.151.238.192,8443,443,true,YYZ,North America,Toronto,262,7.58
-104.46.111.142,8443,443,true,IAD,North America,Ashburn,420,7.44
-20.228.249.211,2053,443,true,IAD,North America,Ashburn,459,7.35
-104.46.101.90,8443,443,true,IAD,North America,Ashburn,326,7.17
-172.200.2.241,443,443,true,IAD,North America,Ashburn,458,7.13
-172.174.249.255,443,443,true,IAD,North America,Ashburn,598,7.07
-172.212.108.47,443,443,true,IAD,North America,Ashburn,515,6.95
-137.116.91.147,8443,443,true,IAD,North America,Ashburn,594,6.77
-20.246.127.166,443,443,true,IAD,North America,Ashburn,612,6.52
-40.123.42.160,8443,443,true,IAD,North America,Ashburn,680,6.46
-172.208.44.21,443,443,true,EWR,North America,Newark,302,6.43
-4.248.47.209,8443,443,true,YUL,North America,Montréal,275,6.35
-20.109.23.42,443,443,true,IAD,North America,Ashburn,317,5.70
-20.174.13.184,8080,443,true,MCI,North America,Kansas City,428,3.75
-20.52.104.187,443,443,true,KIX,Asia Pacific,Osaka,465,3.62
-191.235.86.71,8443,443,true,GRU,South America,São Paulo,382,3.58
-191.235.86.71,2053,443,true,GRU,South America,São Paulo,381,3.50
-20.174.13.184,443,443,true,MCI,North America,Kansas City,660,3.28
-98.67.149.214,2053,443,true,FRA,Europe,Frankfurt,324,1.12
-20.220.204.217,443,443,true,YYZ,North America,Toronto,444,0.07
-137.116.251.154,80,443,false,DUB,Europe,Dublin,195,0.02
-52.226.76.91,80,443,false,IAD,North America,Ashburn,253,0.02
-13.90.157.110,80,443,false,IAD,North America,Ashburn,239,0.02
-20.204.43.57,80,443,false,BOM,Asia Pacific,Mumbai,62,0.00
-172.201.76.19,443,443,true,AMS,Europe,Amsterdam,251,0.00
-20.48.5.180,80,80,false,NRT,Asia Pacific,Tokyo,118,0.00
-40.66.63.160,80,80,false,CDG,Europe,Paris,148,0.00
-51.140.44.206,2086,2086,false,LHR,Europe,London,150,0.00
-51.143.162.160,80,80,false,LHR,Europe,London,151,0.00
-51.145.10.26,80,8080,false,LHR,Europe,London,151,0.00
-104.40.244.228,80,80,false,AMS,Europe,Amsterdam,152,0.00
-20.58.24.221,2086,2086,false,LHR,Europe,London,154,0.00
-4.175.200.138,8080,80,false,AMS,Europe,Amsterdam,157,0.00
-51.140.154.44,2086,2086,false,LHR,Europe,London,158,0.00
-51.140.191.188,2086,2086,false,LHR,Europe,London,158,0.00
-13.95.193.125,80,443,false,AMS,Europe,Amsterdam,160,0.00
-20.64.237.37,80,80,false,SEA,North America,Seattle,162,0.00
-74.241.187.215,8080,80,false,ARN,Europe,Stockholm,181,0.00
-51.141.162.228,80,80,false,SEA,North America,Seattle,199,0.00
-172.179.181.196,80,80,false,SEA,North America,Seattle,217,0.00
-172.210.57.202,80,80,false,EWR,North America,Newark,221,0.00
-40.76.252.162,80,80,false,EWR,North America,Newark,222,0.00
-172.174.249.255,80,80,false,EWR,North America,Newark,224,0.00
-4.255.56.138,80,80,false,IAD,North America,Ashburn,225,0.00
-172.191.74.198,8080,80,false,IAD,North America,Ashburn,231,0.00
-4.255.56.137,80,80,false,EWR,North America,Newark,236,0.00
-74.235.55.225,80,80,false,IAD,North America,Ashburn,241,0.00
-20.42.63.168,80,80,false,IAD,North America,Ashburn,242,0.00
-20.119.73.200,80,80,false,IAD,North America,Ashburn,276,0.00
-40.76.69.94,8080,80,false,EWR,North America,Newark,280,0.00
-4.225.44.144,8080,80,false,ARN,Europe,Stockholm,286,0.00
-104.40.244.228,443,443,true,AMS,Europe,Amsterdam,493,0.00
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+99.83.209.185,443,true,IAD,North America,Ashburn,101 ms,11028 kB/s
+13.53.81.150,2083,true,ARN,Europe,Stockholm,186 ms,8668 kB/s
+204.110.221.83,80,true,SEA,North America,Seattle,203 ms,7255 kB/s
+13.51.55.184,2053,true,ARN,Europe,Stockholm,196 ms,7098 kB/s
+204.110.220.169,80,true,SEA,North America,Seattle,205 ms,6939 kB/s
+13.53.132.96,8080,true,ARN,Europe,Stockholm,177 ms,6860 kB/s
+13.50.173.22,8443,true,ARN,Europe,Stockholm,182 ms,6525 kB/s
+13.41.76.64,8080,true,LHR,Europe,London,195 ms,6398 kB/s
+13.53.51.77,8080,true,ARN,Europe,Stockholm,194 ms,6239 kB/s
+204.110.221.36,80,true,SEA,North America,Seattle,218 ms,6153 kB/s
+35.167.93.200,443,true,SEA,North America,Seattle,238 ms,5855 kB/s
+204.110.223.167,80,true,CMH,North America,Columbus,247 ms,5476 kB/s
+3.101.110.90,80,true,SJC,North America,San Jose,181 ms,4695 kB/s
+204.110.223.219,80,true,CMH,North America,Columbus,237 ms,4392 kB/s
+13.53.54.176,8080,true,ARN,Europe,Stockholm,183 ms,4168 kB/s
+18.189.139.61,443,true,ORD,North America,Chicago,234 ms,4012 kB/s
+15.156.203.151,8443,true,YUL,North America,Montréal,265 ms,3705 kB/s
+204.110.220.79,80,true,SEA,North America,Seattle,226 ms,2309 kB/s
+204.110.223.229,80,true,CMH,North America,Columbus,234 ms,2204 kB/s
+204.110.223.229,443,true,CMH,North America,Columbus,233 ms,1375 kB/s
+13.201.221.231,443,true,BOM,Asia Pacific,Mumbai,281 ms,1330 kB/s
+204.110.220.135,80,true,SEA,North America,Seattle,201 ms,1189 kB/s
+3.111.155.29,443,true,BOM,Asia Pacific,Mumbai,311 ms,660 kB/s
+18.135.188.86,443,true,LHR,Europe,London,180 ms,115 kB/s
+50.112.166.63,443,true,SEA,North America,Seattle,200 ms,105 kB/s
+3.99.106.179,443,true,YUL,North America,Montréal,256 ms,92 kB/s
+44.227.22.10,443,true,SEA,North America,Seattle,218 ms,86 kB/s
+3.98.73.243,443,true,YUL,North America,Montréal,252 ms,83 kB/s
+15.157.7.168,443,true,YUL,North America,Montréal,278 ms,77 kB/s
+18.189.94.250,443,true,CMH,North America,Columbus,231 ms,70 kB/s
+13.49.166.245,443,true,ARN,Europe,Stockholm,204 ms,14 kB/s
