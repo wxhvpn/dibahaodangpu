@@ -20,3 +20,4 @@
 172.64.155.80
 172.64.155.138
 ProxyIP.Oracle.fxxk.dedyn.io
+roxyIP.Vultr.fxxk.dedyn.io
