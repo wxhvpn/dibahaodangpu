@@ -30,3 +30,4 @@ ProxyIP.Aliyun.fxxk.dedyn.io
 ProxyIP.Oracle.fxxk.dedyn.io
 ProxyIP.DigitalOcean.fxxk.dedyn.io
 ProxyIP.Multacom.fxxk.dedyn.io
+visa.cn:8443
