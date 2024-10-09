@@ -31,3 +31,7 @@ ProxyIP.Oracle.fxxk.dedyn.io
 ProxyIP.DigitalOcean.fxxk.dedyn.io
 ProxyIP.Multacom.fxxk.dedyn.io
 visa.cn:8443
+2606:4700:9600:7ec7:cad3:bdb7:e3d:5c2e:2096
+2606:4700:9b00:1da3:b130:768:74d0:6e3f:2096
+2606:4700:9600:b436:f91c:616c:9e65:17f5:2096
+2606:4700:9600:dcce:36a6:6e8:2125:2e5d:2096 
