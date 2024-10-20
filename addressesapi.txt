@@ -27,57 +27,25 @@ visa.cn:8443
 104.16.105.89:2096
 188.64.109.12#🇸🇬
 fbi.gov#🇺🇸
-162.159.138.69,HKG,Asia Pacific,Hong Kong,78 ms
-162.159.152.213,HKG,Asia Pacific,Hong Kong,80 ms
-162.159.135.193,HKG,Asia Pacific,Hong Kong,81 ms
-172.67.79.63,HKG,Asia Pacific,Hong Kong,82 ms
-104.26.2.54,HKG,Asia Pacific,Hong Kong,85 ms
-104.26.15.4,HKG,Asia Pacific,Hong Kong,87 ms
-104.20.29.64,HKG,Asia Pacific,Hong Kong,88 ms
-104.20.25.76,HKG,Asia Pacific,Hong Kong,89 ms
+162.159.138.69#🇭🇰HKG,Asia Pacific,Hong Kong,78 ms
+162.159.152.213#HKG,Asia Pacific,Hong Kong,80 ms
+162.159.135.193#HKG,Asia Pacific,Hong Kong,81 ms
+172.67.79.63#HKG,Asia Pacific,Hong Kong,82 ms
+104.26.2.54#HKG,Asia Pacific,Hong Kong,85 ms
+104.26.15.4#HKG,Asia Pacific,Hong Kong,87 ms
+104.20.29.64#HKG,Asia Pacific,Hong Kong,88 ms
+104.20.25.76#HKG,Asia Pacific,Hong Kong,89 ms
 104.20.21.249,HKG,Asia Pacific,Hong Kong,89 ms
-104.20.19.64,HKG,Asia Pacific,Hong Kong,89 ms
-104.20.24.98,HKG,Asia Pacific,Hong Kong,89 ms
-104.20.20.21,HKG,Asia Pacific,Hong Kong,89 ms
-104.20.26.206,HKG,Asia Pacific,Hong Kong,89 ms
-104.20.27.206,HKG,Asia Pacific,Hong Kong,89 ms
-104.20.16.239,HKG,Asia Pacific,Hong Kong,90 ms
-104.20.17.177,HKG,Asia Pacific,Hong Kong,90 ms
-162.159.133.93,HKG,Asia Pacific,Hong Kong,92 ms
-162.159.153.227,HKG,Asia Pacific,Hong Kong,92 ms
-162.159.129.9,HKG,Asia Pacific,Hong Kong,93 ms
-104.20.30.116,HKG,Asia Pacific,Hong Kong,93 ms
-104.20.18.46,HKG,Asia Pacific,Hong Kong,93 ms
-162.159.134.64,HKG,Asia Pacific,Hong Kong,93 ms
-104.26.14.180,HKG,Asia Pacific,Hong Kong,94 ms
-104.26.0.127,HKG,Asia Pacific,Hong Kong,94 ms
-104.26.1.180,HKG,Asia Pacific,Hong Kong,94 ms
-162.159.142.97,HKG,Asia Pacific,Hong Kong,94 ms
-162.159.137.12,HKG,Asia Pacific,Hong Kong,94 ms
-162.159.141.43,HKG,Asia Pacific,Hong Kong,94 ms
-172.67.78.123,HKG,Asia Pacific,Hong Kong,95 ms
-104.26.12.132,HKG,Asia Pacific,Hong Kong,95 ms
-162.159.130.135,HKG,Asia Pacific,Hong Kong,95 ms
-104.20.31.110,HKG,Asia Pacific,Hong Kong,95 ms
-104.20.28.146,HKG,Asia Pacific,Hong Kong,95 ms
-162.159.140.36,HKG,Asia Pacific,Hong Kong,96 ms
-104.26.6.104,HKG,Asia Pacific,Hong Kong,96 ms
-104.26.9.5,HKG,Asia Pacific,Hong Kong,96 ms
-104.26.11.202,HKG,Asia Pacific,Hong Kong,96 ms
-162.159.128.70,HKG,Asia Pacific,Hong Kong,96 ms
-162.159.136.125,HKG,Asia Pacific,Hong Kong,96 ms
-104.26.7.105,HKG,Asia Pacific,Hong Kong,96 ms
-104.26.3.116,HKG,Asia Pacific,Hong Kong,97 ms
-162.159.143.65,HKG,Asia Pacific,Hong Kong,98 ms
-104.26.4.247,HKG,Asia Pacific,Hong Kong,98 ms
-104.20.22.186,HKG,Asia Pacific,Hong Kong,99 ms
-104.20.23.190,HKG,Asia Pacific,Hong Kong,99 ms
-104.26.5.177,HKG,Asia Pacific,Hong Kong,100 ms
-104.26.8.84,HKG,Asia Pacific,Hong Kong,100 ms
-104.26.10.35,HKG,Asia Pacific,Hong Kong,100 ms
-52.193.22.156:50996#JP🇯🇵
 23.224.149.67:9443#🇭🇰
 122.116.86.104:81#台湾
 45.87.2.60:2053🇳🇱荷兰
 132.226.20.13:587#🇰🇷
 38.59.228.168:22567#🇩🇪德国
+47.242.126.60:17700#🇭🇰
+210.61.97.241:81#🇹🇼TW
+160.16.79.228:443#🇯🇵JP
+199.180.112.107:18712#🇺🇸
+62.106.70.39:139#🇯🇵JP
+103.159.89.26:443#🇹🇼TW
+47.238.223.197:587#🇭🇰HK
+112.120.127.246:113#🇭🇰HK
